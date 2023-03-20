@@ -144,37 +144,37 @@ body .outer-wrapper {
 }
 
 #meme-picture-1 {
-    background: url(/meme-1.png);
+    background: url(meme-1.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #meme-picture-2 {
-    background: url(/meme-2.png);
+    background: url(meme-2.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #meme-picture-3 {
-    background: url(/meme-3.png);
+    background: url(meme-3.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #meme-picture-4 {
-    background: url(/meme-4.png);
+    background: url(meme-4.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #meme-picture-5 {
-    background: url(/meme-5.png);
+    background: url(meme-5.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #meme-picture-6 {
-    background: url(/meme-6.png);
+    background: url(meme-6.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
