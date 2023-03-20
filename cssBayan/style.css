@@ -178,3 +178,45 @@ body .outer-wrapper {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+@media (max-width: 1440px) {
+    :root {
+        --global-content-width: 90vw;
+    }
+    body .outer-wrapper .accordion-wrapper {
+        font-size: 1.5em;
+    }
+}
+
+@media (max-width: 1060px) {
+    body .heading {
+        font-size: 2.5em;
+    }
+    body .outer-wrapper .accordion-wrapper {
+        font-size: 1em;
+    }
+}
+
+@media (max-width: 720px) {
+    body .heading {
+        font-size: 1.5em;
+    }
+    body .outer-wrapper .accordion-wrapper {
+        font-size: 0.75em;
+    }
+}
+
+@media (max-width: 540px) {
+    body .outer-wrapper .accordion-wrapper {
+        font-size: 0.6em;
+    }
+}
+
+@media (max-width: 400px) {
+    body .heading {
+        font-size: 1.25em;
+    }
+    body .outer-wrapper .accordion-wrapper {
+        font-size: 0.5em;
+    }
+}
